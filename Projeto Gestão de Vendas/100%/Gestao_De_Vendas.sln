@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestao_De_Vendas", "WindowsFormsApp7\Gestao_De_Vendas.csproj", "{F0D32C01-0B1C-4C58-A36F-89F7D3EE80D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste_Unitario_Gestao_De_Vendas", "TesteUnitario\Teste_Unitario_Gestao_De_Vendas.csproj", "{27EF1F94-F6BD-4586-A17D-0944D34B8A04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F0D32C01-0B1C-4C58-A36F-89F7D3EE80D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0D32C01-0B1C-4C58-A36F-89F7D3EE80D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0D32C01-0B1C-4C58-A36F-89F7D3EE80D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27EF1F94-F6BD-4586-A17D-0944D34B8A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27EF1F94-F6BD-4586-A17D-0944D34B8A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27EF1F94-F6BD-4586-A17D-0944D34B8A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27EF1F94-F6BD-4586-A17D-0944D34B8A04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -16,3 +16,21 @@ C:\Users\danie\Desktop\   \Projeto Gestão de Vendas\100%\WindowsFormsApp7\bi
 C:\Users\danie\Desktop\   \Projeto Gestão de Vendas\100%\WindowsFormsApp7\bin\Debug\MetroFramework.Fonts.dll
 C:\Users\danie\Desktop\   \Projeto Gestão de Vendas\100%\WindowsFormsApp7\obj\Debug\Gestao_De_Vendas.csproj.CopyComplete
 C:\Users\danie\Desktop\   \Projeto Gestão de Vendas\100%\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Forms.menuInformativo.resources
+C:\Users\danie\Desktop\   \Projeto Gestão de Vendas - Copia\100%\WindowsFormsApp7\obj\Debug\Gestao_De_Vendas.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\   \Projeto Gestão de Vendas - Copia\100%\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Forms.Clientes.cadastroClientes.resources
+C:\Users\danie\Desktop\   \Projeto Gestão de Vendas - Copia\100%\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Forms.menuInformativo.resources
+C:\Users\danie\Desktop\   \Projeto Gestão de Vendas - Copia\100%\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Forms.menuPrincipal.resources
+C:\Users\danie\Desktop\   \Projeto Gestão de Vendas - Copia\100%\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Forms.Produtos.cadastroProdutos.resources
+C:\Users\danie\Desktop\   \Projeto Gestão de Vendas - Copia\100%\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Forms.Vendas.cadastroVendas.resources
+C:\Users\danie\Desktop\   \Projeto Gestão de Vendas - Copia\100%\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\danie\Desktop\   \Projeto Gestão de Vendas - Copia\100%\WindowsFormsApp7\obj\Debug\Gestao_De_Vendas.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\   \Projeto Gestão de Vendas - Copia\100%\WindowsFormsApp7\obj\Debug\Gestao_De_Vendas.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\   \Projeto Gestão de Vendas - Copia\100%\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\danie\Desktop\   \Projeto Gestão de Vendas - Copia\100%\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\danie\Desktop\   \Projeto Gestão de Vendas - Copia\100%\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\danie\Desktop\   \Projeto Gestão de Vendas - Copia\100%\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\danie\Desktop\   \Projeto Gestão de Vendas - Copia\100%\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\danie\Desktop\   \Projeto Gestão de Vendas - Copia\100%\WindowsFormsApp7\bin\Debug\MetroFramework.Design.dll
+C:\Users\danie\Desktop\   \Projeto Gestão de Vendas - Copia\100%\WindowsFormsApp7\bin\Debug\MetroFramework.dll
+C:\Users\danie\Desktop\   \Projeto Gestão de Vendas - Copia\100%\WindowsFormsApp7\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\danie\Desktop\   \Projeto Gestão de Vendas - Copia\100%\WindowsFormsApp7\obj\Debug\Gestao_De_Vendas.csproj.CopyComplete

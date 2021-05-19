@@ -209,7 +209,6 @@ namespace WindowsFormsApp7.Forms.Clientes
                     Clientes.codCNPJ =  0;
                     Clientes.codCNPJ = Clientes.codCNPJ + 1;
                     Clientes.tipoDePessoa = radioJuridica.Text.ToString();
-                    Produtos.fornecedor = Clientes.nome;
                 }
 
                 radioFeminino.Checked = false;

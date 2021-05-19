@@ -24,5 +24,25 @@ namespace WindowsFormsApp7.Classes.Produtos
         public double valorDeCompra { get; set; }
         public double lucro { get; set; }
 
+
+        public static int SomarVendas(int num1, int num2)
+        {
+            return num1 + num2;
+        }
+
+        public static int SubtrairVendas(int num1, int num2)
+        {
+            return num1 - num2;
+        }
+
+        public static int MultiplicarVendas(int num1, int num2)
+        {
+            return num1 * num2;
+        }
+
+        public static int DividirVendas(int num1, int num2)
+        {
+            return num1 / num2;
+        }
     }
 }
