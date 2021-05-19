@@ -1,0 +1,92 @@
+C:\Users\win10\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\win10\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\win10\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\win10\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\win10\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\win10\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\win10\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\win10\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\win10\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+E:\Youtube\Belum Diedit\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+E:\Youtube\Belum Diedit\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+E:\Youtube\Belum Diedit\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+E:\Youtube\Belum Diedit\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+E:\Youtube\Belum Diedit\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+E:\Youtube\Belum Diedit\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+E:\Youtube\Belum Diedit\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+E:\Youtube\Belum Diedit\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+E:\Youtube\Belum Diedit\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+E:\Youtube\Belum Diedit\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form3.resources
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form4.resources
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7 - Copia (3)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7 - Copia (3)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7 - Copia (3)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form3.resources
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7 - Copia (3)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form4.resources
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7 - Copia (3)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7 - Copia (3)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7 - Copia (3)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7 - Copia (3)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7 - Copia (3)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7 - Copia (3)\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7 - Copia (3)\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7 - Copia (3)\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7 - Copia (3) - Copia\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7 - Copia (3) - Copia\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7 - Copia (3) - Copia\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7 - Copia (3) - Copia\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7 - Copia (3) - Copia\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7 - Copia (3) - Copia\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form3.resources
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7 - Copia (3) - Copia\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form4.resources
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7 - Copia (3) - Copia\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7 - Copia (3) - Copia\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7 - Copia (3) - Copia\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7 - Copia (3) - Copia\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\danie\Desktop\Nova pasta (2)\WindowsFormsApp7 - Copia (3) - Copia\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\danie\Desktop\- THIS -\100%\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\danie\Desktop\- THIS -\100%\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\danie\Desktop\- THIS -\100%\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\danie\Desktop\- THIS -\100%\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\- THIS -\100%\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\danie\Desktop\- THIS -\100%\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form3.resources
+C:\Users\danie\Desktop\- THIS -\100%\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form4.resources
+C:\Users\danie\Desktop\- THIS -\100%\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\danie\Desktop\- THIS -\100%\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\- THIS -\100%\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\- THIS -\100%\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\danie\Desktop\- THIS -\100%\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\danie\Desktop\- THIS -\100% - Copia\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\danie\Desktop\- THIS -\100% - Copia\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\danie\Desktop\- THIS -\100% - Copia\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\danie\Desktop\- THIS -\100% - Copia\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\- THIS -\100% - Copia\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\danie\Desktop\- THIS -\100% - Copia\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form3.resources
+C:\Users\danie\Desktop\- THIS -\100% - Copia\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form4.resources
+C:\Users\danie\Desktop\- THIS -\100% - Copia\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\danie\Desktop\- THIS -\100% - Copia\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\- THIS -\100% - Copia\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\- THIS -\100% - Copia\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\danie\Desktop\- THIS -\100% - Copia\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\danie\Desktop\- REV 0.1 -\100%\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\danie\Desktop\- REV 0.1 -\100%\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\danie\Desktop\- REV 0.1 -\100%\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\danie\Desktop\- REV 0.1 -\100%\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\- REV 0.1 -\100%\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\danie\Desktop\- REV 0.1 -\100%\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form3.resources
+C:\Users\danie\Desktop\- REV 0.1 -\100%\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form4.resources
+C:\Users\danie\Desktop\- REV 0.1 -\100%\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\danie\Desktop\- REV 0.1 -\100%\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\- REV 0.1 -\100%\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\- REV 0.1 -\100%\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\danie\Desktop\- REV 0.1 -\100%\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
